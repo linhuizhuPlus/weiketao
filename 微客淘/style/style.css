@@ -1,0 +1,246 @@
+/* CSS Document */
+
+*{padding:0;
+	margin:0 auto;}
+#A{
+	background:url(../imges/A-%E7%BB%B4%E5%AE%A2%E6%B7%98-%E9%A6%96%E9%A1%B5_033.jpg) repeat-y;
+
+	height:5956px;}
+#a1{width:100%;}
+
+#fen{
+		background:#82726B;
+		text-align:center;
+		height:25px;}
+.fenlei{
+	display:inline;
+	padding:15px;
+	font-family:"仿宋";
+	}
+.a{
+	text-decoration:none;
+	color:#fff;
+}
+.a:hover{
+	background:#F00;
+	}
+#b1{
+	background:#E7E2DA;
+	height:25px;
+	font-size:6px;
+	color:#84746D;
+	padding-left:336px;
+	line-height:25px;
+	}
+#x{float:right;
+margin-right:30px;
+margin-top:5px;}
+#b-text{
+	border:1px solid #84746D;
+	float:left;
+}
+#Z{float:left;}
+#b2{
+	background:url(../imges/A-%E7%BB%B4%E5%AE%A2%E6%B7%98-%E9%A6%96%E9%A1%B5_02.jpg) no-repeat;
+		background-size:100% 100%;
+		height:360px;
+}
+#B{width:550px;
+margin-left:335px;
+	}
+#b3{
+	width:300px;
+	height:350px;
+	float:left;
+	}
+#b4{ width:250px;
+	height:350px;
+	float:left;
+}
+#C{
+	margin-left:344px;
+	margin-top:12px;
+	width:;
+	height:100px;}
+.img1{
+	width:165px;
+	height:83px;}
+#D{
+	background:url(../imges/A-%E7%BB%B4%E5%AE%A2%E6%B7%98-%E9%A6%96%E9%A1%B5_038.jpg) no-repeat;
+	background-size:100% 100%;
+	width:660px;
+	height:372px;
+	}
+#d0{
+	width:660px;
+	height:40px;}
+
+#d1{
+	width:330px;
+	height:300px;
+	background:#000;
+	margin-left:20px;
+	float:left;
+	}
+
+#p1{font-family:"方正姚体";
+font-size:20px;}
+.p2{font-family:"方正姚体";
+font-size:12px;
+line-height:20px;}
+#d2{float:left;
+margin-left:15px;}
+/*新品请购*/
+#E{
+	background:url(../imges/A-%E7%BB%B4%E5%AE%A2%E6%B7%98-%E9%A6%96%E9%A1%B51_06.jpg) no-repeat;
+	width:660px;
+	height:546px;
+	background-size:100% 100%;
+	margin-top:10px;
+	}
+#E table{
+	margin-top:10px;}
+.e1{width:243px;
+height:260px;
+
+	}
+/*桃花姻缘香枕*/
+#F{
+	background:url(../imges/A-%E7%BB%B4%E5%AE%A2%E6%B7%98-%E9%A6%96%E9%A1%B54_03.jpg) no-repeat;
+	height:265px;
+	width:660px;
+	background-size:100% 100%;
+	margin-top:10px;}
+/*热门请购*/
+#G{	
+	background:url(../imges/A-%E7%BB%B4%E5%AE%A2%E6%B7%98-%E9%A6%96%E9%A1%B55_03.jpg) no-repeat;
+	background-size:100% 100%;
+	width:660px;
+	height:700px;
+	margin-top:10px;
+	}
+#G0{
+	float:left;}
+#g0{ width:100px;
+height:400px;}
+#g1{
+	margin-left:30px;
+	}
+#g1 img{
+	width:100px;
+	height:25px;
+	}
+#g2{
+	width:400px;
+	height:500px;
+	float:left;
+	margin-left:30px;
+	margin-top:10px;}
+.g21{
+	width:230px;
+	height:220px;}
+	/*月老祠堂*/
+#H{
+	margin-top:10px;
+	width:660px;
+	height:300px;}
+	/*典藏圣品*/
+#J{
+	width:660px;
+	height:700px;
+	background:url(../imges/A-%E7%BB%B4%E5%AE%A2%E6%B7%98-%E9%A6%96%E9%A1%B512_03.jpg) no-repeat;
+	background-size:100% 100%;
+	margin-top:10px;
+	}
+#J table{
+	margin-top:10px;
+	margin-left:10px;}
+.j0{
+	width:160px;
+	height:200px;}
+#j1{
+	
+	float:left;
+	margin-top:480px;
+	margin-left:18px;
+}
+#j1 img{
+	width:100px;
+	height:25px;}
+#K{
+	width:660px;
+	margin-top:5px;}
+#K img{width:660px;}
+#P{
+	background:url(../imges/1.jpg) no-repeat;
+	background-size:100% 100%;
+	width:660px;
+	height:300px;
+	margin-top:5px;}
+#p1{float:left;
+	padding-top:20px;
+	padding-left:15px;
+	width:35px;}
+#p11{
+	height:55px;}
+#p2{float:left;
+	width:575px;
+	height:300px;
+	border:1px solid #0F6;
+	margin-left:15px;}
+#p21{
+	
+	border:1px solid #39C;
+	width:573px;
+	height:30px;
+	margin-top:30px;
+	margin-left:0px;}
+#p21 ul li{
+	display:inline;
+	color:#6C6767;
+	}
+.n1{font-size:10px;
+	font-weight:bold;
+	}
+.n2{
+	text-decoration:none;
+	padding-right:1px;
+	font-size:8px;
+	color:#787473;}
+#p22{
+
+	border:1px solid #39C;
+	width:573px;
+	height:40px;
+	margin-top:10px;
+	margin-left:0px;}
+#p22 ul li{
+	display:inline;
+	color:#6C6767;
+	}
+#p23 ul li{
+	display:inline;
+	color:#6C6767;
+	}
+#p23{
+	display:inline;
+	width:573px;
+	height:30px;
+	margin-top:30px;
+	border:1px solid #666;}
+#Q{
+	background:url(../imges/A-%E7%BB%B4%E5%AE%A2%E6%B7%98-%E9%A6%96%E9%A1%B5_04_03.jpg) no-repeat;
+	background-size:100% 100%;
+	width:660px;
+	height:350px;
+	margin-top:10px;}
+#p24 ul li{
+	display:inline;}
+#p25 ul li{
+	display:inline;}
+#p25{
+	margin-top:10px;}
+#p26 ul li{
+	display:inline;}
+#p26{
+	margin-top:10px;}
